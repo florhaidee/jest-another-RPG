@@ -1,0 +1,29 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "a command-line role-playing game",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/florhaidee/jest-another-RPG.git"
+  },
+  "keywords": [
+    "TDD",
+    "OOP",
+    "role-playing",
+    "game",
+    "Jest"
+  ],
+  "author": "florhaidee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/florhaidee/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/florhaidee/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
+}
